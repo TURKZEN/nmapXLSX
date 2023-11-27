@@ -1,4 +1,4 @@
-module ExcelConverter
+module github.com/TURKZEN/nmapXLSX
 
 go 1.21.1
 
