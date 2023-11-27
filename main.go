@@ -41,7 +41,7 @@ type State struct {
 
 func main() {
 	if len(os.Args) != 3 {
-		fmt.Println("Usage: Converter.exe <xml_Nmap_Output> <Output>")
+		fmt.Println("Usage: nmapXLSX <xml_Nmap_Output> <Output>")
 		return
 	}
 
